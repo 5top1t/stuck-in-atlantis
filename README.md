@@ -5,9 +5,9 @@ This project simulates the leaving conditions for Bucky who is now stuck in Atla
 Upon meeting an Atlantian, the Atlantian randomly selects a greeting from things.txt. An atlantian is defined by of combination of name, breed and card. For example: Andy Seahorse 6 x 10
 
 # Three conditions:
- collect 6 stackable cards
- Meet 14 different "Type" of inhabitant
- Make 150 interactions
+ collect 6 stackable cards <br />
+ Meet 14 different "Type" of inhabitant <br />
+ Make 150 interactions <br />
 
 # Stackable:
 Two cards are said to be stackable if the two dimension of one are less than the two dimesion of the other.
